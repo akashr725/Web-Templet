@@ -1,0 +1,192 @@
+*{
+	margin:o;
+	padding:o;
+	
+}
+.main{
+	
+}
+.header{
+	background-color:#CCCCCC;
+	width:100%;
+	height:200px;
+	display:block;
+
+}
+.headermain{
+	background-color:#CEE8F4;
+	width:900px;
+	height:200px;
+margin: 0 auto;}
+.headertop{
+	width:900px;
+	height:150px;
+	background-color:#F5F5F5;
+	
+}
+.headertop h1{
+	padding:30px 0px 10px 10px;
+}
+.headertop h1 a{
+	text-decoration:none;
+}
+.headertop p{
+	
+padding-left:10px;
+}
+#red:hover{
+	color:red;
+}
+
+.headerbottom{
+	width:898px;
+	height:48px;
+background-color:#CCCCCC;
+border-top:0px solid #999;
+border-bottom:1px solid #999;
+border-left:1px solid #999;
+border-right:1px solid #999;
+
+}
+.content{
+	width:900px;
+	min-height:900px;
+	/*background-color:blue;*/
+	margin:0 auto;
+}
+.root{
+	border:10px solid #DDDDDD;
+	margin:20px 0px;
+}
+.root img{
+	width:100%;
+	height:200px;
+	margin-bottom:-5px;
+	
+}
+.sidebar{
+	width:600px;
+	min-height:700px;
+	/*background-color:yellow;*/
+	float:right;
+	/*margin-left:20px;*/
+}
+.rightbar{
+	width:300px;
+	min-height:700px;
+	/*background-color:pink;*/
+	float;left;
+}
+.unit{
+	padding:15px;
+	border:2px solid #5555;
+	border-radius:15px;
+	margin-bottom:15px;
+}
+.unit h3{
+	padding-bottom:2px;
+}
+.unit h4{
+	color:#3443eb;
+}
+.unit a{
+	display:block;
+}
+.menu{
+	text-align:right;
+}
+.menu ul li{
+	display:inline-block;
+	line-height:0px;
+}
+.menu ul li a{
+	background-color:#61605f;
+color:white;
+padding:5px 10px;
+text-decoration:none;
+margin:0px 5px;
+	
+}
+.menu ul li a:hover{
+color:#000;}
+#nil{
+	background-color:#0b83e6;
+}
+#nil:hover{
+	color:white;
+}
+
+.unit2 {
+	padding:15px 15px 40px 15px;
+	/*border:2px solid #5555;*/
+	border-radius:20px;
+	margin-bottom:20px;
+	margin-left:15px;
+	
+	
+}
+.unit2 h2{
+	color:#15b0ed;
+}
+.unit3 {
+	padding:5px 15px 0px 15px;
+	/*border:2px solid #5555;*/
+	border-radius:20px;
+	margin-bottom:20px;
+	margin-left:15px;
+	
+}
+.unit3 h2{
+	color:#009FBC;
+}
+.unit3 li{
+	color:green;
+	padding:0px 0px 5px 10px;
+	
+}
+.footer{
+	background-color:#CCCCCC;
+	width:100%;
+	height:100%;
+	overflow:hidden;
+}
+
+	
+}
+.footer-area{
+	width:900px;
+	height:100px;
+	/*background-color:blue;*/
+	margin:0px;
+	
+}
+.footer-area ul li {
+	display:inline-block;
+	
+	padding:10px 0px;
+	
+}
+.footer-area p a{
+	text-decoration:none;
+	color:#fff;
+}
+.footer-area ul li a{
+	text-decoration:none;
+	padding:0px 5px;
+	display:block;
+	color:#fff;
+	border-left:0px solid #FFF;
+	
+}
+.footer-area{
+	text-align:center;
+}
+#pass{
+	border:none;
+}
+#pass:hover{
+	color:blue;
+}
+#pass2:hover{
+	color:blue;
+}
